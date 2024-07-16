@@ -1,6 +1,7 @@
 /practice/*
 /practice/
-
+/blogvenv/*
+/blogvenv/
 
 # Ignore Python byte code
 *.pyc
